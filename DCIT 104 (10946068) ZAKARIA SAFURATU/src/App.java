@@ -4,6 +4,7 @@ public class App {
         even = new int[10000];
         int count = 0;
         int sum = 0;
+        // CHANGE
 
 
         for (int i = 1;i < 10000; i++){
